@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Organic Apples",
+    "description": "Fresh organic apples picked from the farm. Perfect for snacking, baking, or making homemade applesauce.",
+    "price": 3.99,
+    "image": "https://img.freepik.com/free-photo/many-ripe-juicy-red-apples-covered-with-water-drops-closeup-selective-focus-ripe-fruits-as-background_166373-2611.jpg?w=740&t=st=1680428854~exp=1680429454~hmac=3b28a648593af17abc3e3936674ec810ba094bb1b1b123d533c55d35d5ac3cda",
+    "category": "#fruits"
+  },
+  {
+    "id": 2,
+    "name": "Whole Grain Bread",
+    "description": "Nutritious whole grain bread made with organic flour and no preservatives. Ideal for toast, sandwiches, or french toast.",
+    "price": 2.99,
+    "image": "https://img.freepik.com/free-photo/brown-plate-with-brown-sliced-bread-ear-blue-surface_114579-55795.jpg?w=740&t=st=1680429451~exp=1680430051~hmac=4019455ae04ba369d820af82d9eb3c4dc80e0525169340a6a2f2a5c831c2b9a6",
+    "category": "#bakery"
+  },
+  {
+    "id": 3,
+    "name": "Organic Brown Rice",
+    "description": "High-quality brown rice that is gluten-free and packed with fiber. Perfect for stir-fries, salads, or as a side dish.",
+    "price": 4.99,
+    "image": "https://img.freepik.com/free-photo/bowl-jasmine-red-rice-white-rice-black-rice-bowls-place-mat_23-2147883486.jpg?w=740&t=st=1680429527~exp=1680430127~hmac=fb21ca1dc02cd2ec0f5508f68b8ee138731d5f45c3b1088c482f74f55a7b4a0b",
+    "category": "#grains"
+  },
+  {
+    "id": 4,
+    "name": "Organic Whole Milk",
+    "description": "Creamy, delicious whole milk from happy cows. Ideal for cooking, baking, or drinking on its own.",
+    "price": 5.99,
+    "image": "https://img.freepik.com/free-photo/bottles-fresh-milk-with-american-cookies_23-2148239836.jpg?w=740&t=st=1680429597~exp=1680430197~hmac=682f119c59eeee3a1eb565ef4725ee7508e8a6796c4f5e3d55ccfb7e130a9a5a",
+    "category": "#dairy"
+  }
+]
